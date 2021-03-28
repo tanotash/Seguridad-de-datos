@@ -77,7 +77,7 @@ More introductory CTFs
 - [x] LFI basics https://tryhackme.com/room/lfibasics
 - [ ] Buffer Overflow Prep https://tryhackme.com/room/bufferoverflowprep
 - [x] Overpass https://tryhackme.com/room/overpass
-- [ ] Break out the cage https://tryhackme.com/room/breakoutthecage1
+- [x] Break out the cage https://tryhackme.com/room/breakoutthecage1
 - [x] Lian Yu https://tryhackme.com/room/lianyu
 
 # Level 8 - Windows
