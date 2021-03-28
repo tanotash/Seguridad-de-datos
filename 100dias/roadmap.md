@@ -5,7 +5,7 @@
 - [x] Learn Linux https://tryhackme.com/room/zthlinux
 - [x] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
-Introductory CTFs to get your feet wet
+## Introductory CTFs to get your feet wet
 
 - [x] Google Dorking https://tryhackme.com/room/googledorking
 - [x] OHsint https://tryhackme.com/room/ohsint
@@ -22,7 +22,7 @@ Introductory CTFs to get your feet wet
 - [x] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [x] Web Scanning https://tryhackme.com/room/rpwebscanning
 
-More introductory CTFs
+## More introductory CTFs
 - [x] Vulnversity - https://tryhackme.com/room/vulnversity
 - [x] Blue - https://tryhackme.com/room/blue
 - [x] Simple CTF https://tryhackme.com/room/easyctf
@@ -35,6 +35,7 @@ More introductory CTFs
 - [x] Ice https://tryhackme.com/room/ice
 - [x] Lazy Admin https://tryhackme.com/room/lazyadmin
 - [x] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
+
 # Level 4 - Web
 - [x] OWASP top 10 https://tryhackme.com/room/owasptop10
 - [x] Inclusion https://tryhackme.com/room/inclusion
@@ -57,6 +58,7 @@ More introductory CTFs
 - [x] Reverse Engineering https://tryhackme.com/room/reverseengineering
 - [x] Reversing ELF https://tryhackme.com/room/reverselfiles
 - [x] Dumping Router Firmware https://tryhackme.com/room/rfirmware
+
 # Level 6 - PrivEsc
 - [x] Sudo Security Bypass https://tryhackme.com/room/sudovulnsbypass
 - [x] Sudo Buffer Overflow https://tryhackme.com/room/sudovulnsbof
