@@ -17,3 +17,9 @@ adjunto prueba de enumeracion en el archivo cage.png donde utilice gobuster para
 ## Progreso del dia 
 
 siguiendo con la dinamica de acabar el roadmap de THM trate de realizar la room Buffer Overflow Prep https://tryhackme.com/room/bufferoverflowprep pero por falta de conocimiento y porque se me juntaron mas proyectos decidi dejarla en reposo por un tiempo espero retomarla en un tiempo, es un problema que me pasa con las maquina remotas de windows, no gozo de muchos recursos en mi laptop y me cuesta mucho trabajo organizarme con tantos programas abiertos 
+
+# Dia 4 Lunes 29 de marzo 
+
+## progreso del dia
+
+este dia estuve haciendo algunas nstalaciones para poder realizar el room https://tryhackme.com/room/attacktivedirectory puesto que anteriormente ya habia utilizado bloodhount pero en la maquina virtual de THM asi que decidi instalarlo en en mi pc, ademas de algunas otras instalaciones para poder realizar este room, estoy pensando seriamente en pasarme a kali puesto que lo tiene ya preinstalado 
