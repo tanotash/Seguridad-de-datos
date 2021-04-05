@@ -32,5 +32,12 @@ aunque este repositorio es para la realizacion de los rooms de THM, cumpliendo c
 
 # dia 6 miercoles 31 de marzo 
 
-## se busco vulneravilidades en la maquina instalada previamente en el dia 5 que en su mayoria era sqlinjection que use sqlmap para poder ver la base datos de items aunque no me daba como tal toda la base de datos solo la de los usuarios admin y uno con permisos custumer, viendo igual que la contraseña por defecto al crear un usuario era welcome que se almacenaba en formato MD5 
+## Progreso del dia 
 
+se busco vulneravilidades en la maquina instalada previamente en el dia 5 que en su mayoria era sqlinjection que use sqlmap para poder ver la base datos de items aunque no me daba como tal toda la base de datos solo la de los usuarios admin y uno con permisos custumer, viendo igual que la contraseña por defecto al crear un usuario era welcome que se almacenaba en formato MD5 
+
+# Dia 7 jueves 31 de marzo
+
+## progreso del dia
+
+Se continuo con el room dejado en el dia 4, acabando de instalar bloodhount, utilice la maquina virtual de THM para usar enum4linux para enumerar la ip que me dio la maquina a desplegar para posteriormente resolver las dudas, despues de esto procedi a instalar kerbrute para el siguiente modulo 
