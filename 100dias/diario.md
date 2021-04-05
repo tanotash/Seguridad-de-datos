@@ -41,3 +41,9 @@ se busco vulneravilidades en la maquina instalada previamente en el dia 5 que en
 ## progreso del dia
 
 Se continuo con el room dejado en el dia 4, acabando de instalar bloodhount, utilice la maquina virtual de THM para usar enum4linux para enumerar la ip que me dio la maquina a desplegar para posteriormente resolver las dudas, despues de esto procedi a instalar kerbrute para el siguiente modulo 
+
+# Dia 8 viernes 1 de abril 
+
+## progreso del dia 
+
+desifrando con kerberus se optubo un hash para decodificar, intente con hashcat pero e tenido problemas para usarlo, e encontrado diferentes manuales pero aveces no se cual es de cual, entrando ala wiki de hashes el que me da es un 18200 pero en mi hashcat me da un 7500 una vez viendo esto intente pero tampoco me dejo asi que decidi correrlo con john y asi obtube la contraseña que estaba en hash Kerberos 5 AS-REQ Pre-Auth etype 23, despues de esto entre smbclient y asi encontrar un archivo que contenia un archivo en base64 que tenia en su interior "backup@spookysec.local:backup2517860"
